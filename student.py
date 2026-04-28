@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 students = []
 dictionary = {"name":"张三",
               "score":85}
@@ -50,7 +49,6 @@ while True:
     else:
         print("错误选项")
         break
-=======
 students = []
 dictionary = {"name":"张三",
               "score":85}
@@ -102,4 +100,3 @@ while True:
     else:
         print("错误选项")
         break
->>>>>>> 96a6fe0aa5fd17f6e070fe2735bb15c8a4b9d414
